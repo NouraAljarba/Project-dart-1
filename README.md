@@ -1,5 +1,5 @@
 
-# The idea of ​​this project is to build a library that enables users to add new books, delete, review available books, buy books and view the bill. All these commands are done through the console.
+#The idea of ​​this project is to build a library that enables users to add new books, delete, review available books, buy books and view the bill. All these commands are done through the console.
 
 
 
